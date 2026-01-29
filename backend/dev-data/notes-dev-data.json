@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "67100a2c3bfcfbc1a8e11111",
+    "title": "Ideas for a new article",
+    "content": "I should write a note about best practices for working with MongoDB and Mongoose.",
+    "tags": ["mongo", "backend", "mongoose"],
+    "author": "671009fa3bfcfbc1a8e00001",
+    "views": 12,
+    "likes": 3,
+    "createdAt": "2025-10-10T12:30:00.000Z",
+    "updatedAt": "2025-10-11T08:15:00.000Z"
+  },
+  {
+    "_id": "67100a2c3bfcfbc1a8e22222",
+    "title": "Weekly task list",
+    "content": "1. Finish the Note App\n2. Set up authentication\n3. Add tag-based filtering",
+    "tags": ["todo", "personal", "react"],
+    "author": "671009fa3bfcfbc1a8e00001",
+    "views": 5,
+    "likes": 1,
+    "createdAt": "2025-10-09T09:00:00.000Z",
+    "updatedAt": "2025-10-09T09:30:00.000Z"
+  },
+  {
+    "_id": "67100a2c3bfcfbc1a8e33333",
+    "title": "Quick note about Node.js",
+    "content": "Node.js lets you run JavaScript on the server. It's a great choice for building REST APIs.",
+    "tags": ["node", "javascript", "backend"],
+    "author": "671009fa3bfcfbc1a8e00002",
+    "views": 18,
+    "likes": 5,
+    "createdAt": "2025-10-08T16:00:00.000Z",
+    "updatedAt": "2025-10-10T10:00:00.000Z"
+  },
+  {
+    "_id": "67100a2c3bfcfbc1a8e44444",
+    "title": "Vacation plans",
+    "content": "I’d love to go to the mountains, away from the screen and code for a bit.",
+    "tags": ["personal", "travel"],
+    "author": "671009fa3bfcfbc1a8e00001",
+    "views": 2,
+    "likes": 0,
+    "createdAt": "2025-10-07T14:20:00.000Z",
+    "updatedAt": "2025-10-07T15:00:00.000Z"
+  },
+  {
+    "_id": "67100a2c3bfcfbc1a8e55555",
+    "title": "How useEffect works in React",
+    "content": "The useEffect hook lets you handle side effects in functional components.",
+    "tags": ["react", "hooks", "frontend"],
+    "author": "671009fa3bfcfbc1a8e00003",
+    "views": 22,
+    "likes": 9,
+    "createdAt": "2025-10-06T11:00:00.000Z",
+    "updatedAt": "2025-10-06T12:00:00.000Z"
+  }
+]
